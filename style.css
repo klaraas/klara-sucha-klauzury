@@ -1,0 +1,17 @@
+ body {
+      font-family: "Host Grotesk", sans-serif;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      background: hsl(200, 26%, 87%);
+      color: #333;
+    }
+
+    h1 { font-size: 2.5rem; font-weight: normal; margin-bottom: 5px; }
+    h2 { font-size: 1.3rem; font-weight: normal; color: #666; margin: 50px 0 15px; border-bottom: 1px solid #ccc; padding-bottom: 8px; }
+
+    p { line-height: 1.8; }
+
+    img { width: 100%; max-width: 680px; margin: 16px; }
+
+    audio { display: block; margin: 10px 0; width: 100%; }
